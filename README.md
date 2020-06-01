@@ -31,9 +31,9 @@ yarn start
 
 ### Screens examples
 
-### Desktop
+### Home
 
-![Desktop](https://github.com/vitorrios1001/monitor-COVID19-app/blob/master//docs/images/Home.png?raw=true)
+![Home](https://github.com/vitorrios1001/monitor-COVID19-app/blob/master//docs/images/Home.png?raw=true)
 
 ### World
 
